@@ -1,4 +1,6 @@
 WD_Code
 
-添加了一些文字
+分支改名  git branch
+
+切换分支  git checkout
 
