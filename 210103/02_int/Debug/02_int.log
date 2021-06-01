@@ -1,0 +1,4 @@
+﻿  02_int.c
+c:\users\11264\documents\vs_code\210113\02_int\02_int.c(10): warning C4047: “初始化”:“char”与“char [3]”的间接级别不同
+  02_int.vcxproj -> C:\Users\11264\Documents\VS_Code\210113\Debug\02_int.exe
+  02_int.vcxproj -> C:\Users\11264\Documents\VS_Code\210113\Debug\02_int.pdb (Full PDB)
