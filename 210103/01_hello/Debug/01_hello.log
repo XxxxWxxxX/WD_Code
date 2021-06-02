@@ -1,5 +1,0 @@
-﻿  01_c.cpp
-c:\users\11264\documents\vs_code\210113\01_hello\01_c.cpp(14): warning C4101: “a”: 未引用的局部变量
-c:\users\11264\documents\vs_code\210113\01_hello\01_c.cpp(14): warning C4101: “b”: 未引用的局部变量
-  01_hello.vcxproj -> C:\Users\11264\Documents\VS_Code\210113\Debug\01_hello.exe
-  01_hello.vcxproj -> C:\Users\11264\Documents\VS_Code\210113\Debug\01_hello.pdb (Full PDB)

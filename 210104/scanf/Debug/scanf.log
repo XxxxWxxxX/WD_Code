@@ -1,0 +1,21 @@
+﻿生成启动时间为 2016/1/4 17:39:23。
+     1>项目“D:\CODER_12\20160104\scanf\scanf.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt scanf.c
+         scanf.c
+     1>d:\coder_12\20160104\scanf\scanf.c(15): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 d:\program files\microsoft visual studio 11.0\vc\include\stdio.h(290) : 参见“scanf”的声明
+     1>d:\coder_12\20160104\scanf\scanf.c(8): warning C4101: “c3”: 未引用的局部变量
+     1>d:\coder_12\20160104\scanf\scanf.c(8): warning C4101: “c1”: 未引用的局部变量
+     1>d:\coder_12\20160104\scanf\scanf.c(9): warning C4101: “d2”: 未引用的局部变量
+     1>d:\coder_12\20160104\scanf\scanf.c(8): warning C4101: “c2”: 未引用的局部变量
+     1>d:\coder_12\20160104\scanf\scanf.c(9): warning C4101: “d3”: 未引用的局部变量
+     1>d:\coder_12\20160104\scanf\scanf.c(9): warning C4101: “d1”: 未引用的局部变量
+       Link:
+         D:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\CODER_12\20160104\Debug\scanf.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\CODER_12\20160104\Debug\scanf.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\CODER_12\20160104\Debug\scanf.lib" /MACHINE:X86 Debug\scanf.obj
+         scanf.vcxproj -> D:\CODER_12\20160104\Debug\scanf.exe
+     1>已完成生成项目“D:\CODER_12\20160104\scanf\scanf.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.12

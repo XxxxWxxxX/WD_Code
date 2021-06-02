@@ -1,4 +1,0 @@
-﻿  04_float.c
-c:\users\11264\documents\vs_code\210113\04_float\04_float.c(11): warning C4305: “初始化”: 从“double”到“float”截断
-  04_float.vcxproj -> C:\Users\11264\Documents\VS_Code\210113\Debug\04_float.exe
-  04_float.vcxproj -> C:\Users\11264\Documents\VS_Code\210113\Debug\04_float.pdb (Full PDB)
