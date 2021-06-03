@@ -1,14 +1,4 @@
-﻿生成启动时间为 2016/1/4 11:27:25。
-     1>项目“D:\CODER_12\20160104\char\char.vcxproj”在节点 2 上(Build 个目标)。
-     1>ClCompile:
-         D:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt char.c
-         char.c
-     1>d:\coder_12\20160104\char\char.c(8): warning C4101: “c”: 未引用的局部变量
-       Link:
-         D:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\CODER_12\20160104\Debug\char.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\CODER_12\20160104\Debug\char.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\CODER_12\20160104\Debug\char.lib" /MACHINE:X86 Debug\char.obj
-         char.vcxproj -> D:\CODER_12\20160104\Debug\char.exe
-     1>已完成生成项目“D:\CODER_12\20160104\char\char.vcxproj”(Build 个目标)的操作。
-
-生成成功。
-
-已用时间 00:00:00.68
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (char.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  char.c
+  char.vcxproj -> C:\Users\11264\Documents\WD_Code\210104\Debug\1.char.exe
+  char.vcxproj -> C:\Users\11264\Documents\WD_Code\210104\Debug\1.char.pdb (Full PDB)
