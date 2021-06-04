@@ -22,9 +22,9 @@ void main()
 	//scanf("%s,%s,%s",d1,d2,d3);		//%s只能匹配空格,不能匹配逗号(逗号也是字符串),字符可以
 	//printf("d1=%s,d2=%s,d3=%s\n",d1,d2,d3);
 
-	//fflush(stdin) 刷新缓存区 标准输入输出缓存区stdin /stdout
+	//fflush(stdin) 刷新缓存区 标准输入输出缓存区stdin /stdout  fflush()VS2015下不能用,不是标准的C,是C扩展,使用rewind()函数,或者getchar().
 	// EOF scanf()没有读取到匹配的值返回-1
-	while(fflush(stdin),scanf("%d",&a)  != EOF)																									//这里有点问题,为什么刷新缓存区函数不起作用?ctrl+z输入三次?
+	while(rewind(stdin),scanf("%d",&a)  != EOF)																									//ctrl+z输入三次?
 	{
 		printf("the a is %d\n",a);		// \n 刷新输出缓冲区,阻塞	
 	}

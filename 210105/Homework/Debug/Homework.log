@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Homework(8).vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  getdayofyear.c
+c:\users\11264\documents\wd_code\210105\homework\getdayofyear.c(13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: 参见“scanf”的声明
+  Homework.vcxproj -> C:\Users\11264\Documents\WD_Code\210105\Debug\Homework.exe
+  Homework.vcxproj -> C:\Users\11264\Documents\WD_Code\210105\Debug\Homework.pdb (Full PDB)
