@@ -1,0 +1,5 @@
+﻿  2.dayinzifu.c
+c:\users\11264\documents\wd_code\homework\105\2.dayinzifu.c(18): warning C4013: “gets”未定义；假设外部返回 int
+c:\users\11264\documents\wd_code\homework\105\2.dayinzifu.c(18): warning C4047: “!=”:“int”与“void *”的间接级别不同
+  105.vcxproj -> C:\Users\11264\Documents\WD_Code\HomeWork\Debug\105.exe
+  105.vcxproj -> C:\Users\11264\Documents\WD_Code\HomeWork\Debug\105.pdb (Full PDB)

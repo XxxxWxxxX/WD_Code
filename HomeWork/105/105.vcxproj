@@ -142,9 +142,10 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="1.atoA.c" />
+    <ClCompile Include="2.dayinzifu.c" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="..\..\C语言讲义\105\1月5号作业答案\homework\head.h" />
     <ClInclude Include="resource.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
